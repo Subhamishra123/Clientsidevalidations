@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="CoronaVaccine5-ClientsideValidation">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="CoronaVaccine5-ClientsideValidation"/>
+        <property name="java-output-path" value="/CoronaVaccine5-ClientsideValidation/build/classes"/>
+    </wb-module>
+</project-modules>
